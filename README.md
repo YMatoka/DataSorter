@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 # How to run it
 
-You can run it through Jupyter Notebook or if you are on windows you can run it through DataSorter_App.exe
+You can run it through Jupyter Notebook
 
 
 
